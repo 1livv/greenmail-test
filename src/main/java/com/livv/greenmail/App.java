@@ -7,13 +7,7 @@ import com.icegreen.greenmail.user.*;
 import com.icegreen.greenmail.util.GreenMail;
 import com.icegreen.greenmail.util.ServerSetup;
 
-import java.util.ConcurrentModificationException;
-import java.util.Random;
 
-/**
- * Hello world!
- *
- */
 public class App
 {
     public static void main( String[] args )
